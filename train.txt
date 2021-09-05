@@ -1,0 +1,530 @@
+<train>
+	<id>53<\id>
+	<num>G22<\num>
+	<start>19:00<\start>
+	<end>23:18<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>200<\quantities>
+<\train>
+<train>
+	<id>52<\id>
+	<num>G1395<\num>
+	<start>18:28<\start>
+	<end>22:26<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南昌西<\termination>
+	<cost>337<\cost>
+	<quantities>158<\quantities>
+<\train>
+<train>
+	<id>51<\id>
+	<num>G1365<\num>
+	<start>17:38<\start>
+	<end>23:01<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>300<\quantities>
+<\train>
+<train>
+	<id>50<\id>
+	<num>G1639<\num>
+	<start>17:22<\start>
+	<end>22:15<\end>
+	<departure>上海虹桥<\departure>
+	<termination>福州<\termination>
+	<cost>309<\cost>
+	<quantities>88<\quantities>
+<\train>
+<train>
+	<id>49<\id>
+	<num>G16<\num>
+	<start>17:00<\start>
+	<end>21:36<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>108<\quantities>
+<\train>
+<train>
+	<id>48<\id>
+	<num>G1361<\num>
+	<start>16:42<\start>
+	<end>22:13<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>158<\quantities>
+<\train>
+<train>
+	<id>47<\id>
+	<num>G216<\num>
+	<start>16:37<\start>
+	<end>22:05<\end>
+	<departure>上海虹桥<\departure>
+	<termination>天津西<\termination>
+	<cost>509<\cost>
+	<quantities>67<\quantities>
+<\train>
+<train>
+	<id>46<\id>
+	<num>G235<\num>
+	<start>16:32<\start>
+	<end>23:03<\end>
+	<departure>上海虹桥<\departure>
+	<termination>青岛<\termination>
+	<cost>518<\cost>
+	<quantities>136<\quantities>
+<\train>
+<train>
+	<id>45<\id>
+	<num>G1359<\num>
+	<start>15:37<\start>
+	<end>22:59<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>199<\quantities>
+<\train>
+<train>
+	<id>44<\id>
+	<num>G1305<\num>
+	<start>15:25<\start>
+	<end>23:38<\end>
+	<departure>上海虹桥<\departure>
+	<termination>广州南<\termination>
+	<cost>793<\cost>
+	<quantities>88<\quantities>
+<\train>
+<train>
+	<id>43<\id>
+	<num>G214<\num>
+	<start>15:05<\start>
+	<end>20:29<\end>
+	<departure>上海虹桥<\departure>
+	<termination>天津西<\termination>
+	<cost>509<\cost>
+	<quantities>218<\quantities>
+<\train>
+<train>
+	<id>42<\id>
+	<num>G1357<\num>
+	<start>15:01<\start>
+	<end>19:48<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>78<\quantities>
+<\train>
+<train>
+	<id>41<\id>
+	<num>G14<\num>
+	<start>15:00<\start>
+	<end>19:36<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>128<\quantities>
+<\train>
+<train>
+	<id>40<\id>
+	<num>G226/G227<\num>
+	<start>14:20<\start>
+	<end>21:25<\end>
+	<departure>上海虹桥<\departure>
+	<termination>青岛<\termination>
+	<cost>518<\cost>
+	<quantities>36<\quantities>
+<\train>
+<train>
+	<id>39<\id>
+	<num>G1815<\num>
+	<start>14:15<\start>
+	<end>18:12<\end>
+	<departure>上海虹桥<\departure>
+	<termination>郑州东<\termination>
+	<cost>447<\cost>
+	<quantities>150<\quantities>
+<\train>
+<train>
+	<id>38<\id>
+	<num>G99<\num>
+	<start>14:10<\start>
+	<end>22:29<\end>
+	<departure>上海虹桥<\departure>
+	<termination>香港西九龙<\termination>
+	<cost>1008<\cost>
+	<quantities>52<\quantities>
+<\train>
+<train>
+	<id>37<\id>
+	<num>G4<\num>
+	<start>14:00<\start>
+	<end>18:28<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>36<\quantities>
+<\train>
+<train>
+	<id>36<\id>
+	<num>G1355<\num>
+	<start>13:47<\start>
+	<end>19:23<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>99<\quantities>
+<\train>
+<train>
+	<id>35<\id>
+	<num>G1353<\num>
+	<start>13:25<\start>
+	<end>19:01<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>52<\quantities>
+<\train>
+<train>
+	<id>34<\id>
+	<num>G7165<\num>
+	<start>13:08<\start>
+	<end>16:10<\end>
+	<departure>上海虹桥<\departure>
+	<termination>合肥南<\termination>
+	<cost>193<\cost>
+	<quantities>176<\quantities>
+<\train>
+<train>
+	<id>33<\id>
+	<num>G134<\num>
+	<start>13:00<\start>
+	<end>18:58<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>25<\quantities>
+<\train>
+<train>
+	<id>32<\id>
+	<num>G412<\num>
+	<start>12:28<\start>
+	<end>18:48<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>102<\quantities>
+<\train>
+<train>
+	<id>31<\id>
+	<num>G1633<\num>
+	<start>12:25<\start>
+	<end>17:18<\end>
+	<departure>上海虹桥<\departure>
+	<termination>福州<\termination>
+	<cost>309<\cost>
+	<quantities>82<\quantities>
+<\train>
+<train>
+	<id>30<\id>
+	<num>G1387<\num>
+	<start>12:20<\start>
+	<end>16:13<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南昌西<\termination>
+	<cost>337<\cost>
+	<quantities>139<\quantities>
+<\train>
+<train>
+	<id>29<\id>
+	<num>G132<\num>
+	<start>12:17<\start>
+	<end>18:32<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>92<\quantities>
+<\train>
+<train>
+	<id>28<\id>
+	<num>G1673<\num>
+	<start>11:56<\start>
+	<end>20:08<\end>
+	<departure>上海虹桥<\departure>
+	<termination>厦门北<\termination>
+	<cost>388<\cost>
+	<quantities>33<\quantities>
+<\train>
+<train>
+	<id>27<\id>
+	<num>G7108<\num>
+	<start>11:40<\start>
+	<end>13:40<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南京<\termination>
+	<cost>140<\cost>
+	<quantities>252<\quantities>
+<\train>
+<train>
+	<id>26<\id>
+	<num>G1333<\num>
+	<start>11:39<\start>
+	<end>23:29<\end>
+	<departure>上海虹桥<\departure>
+	<termination>重庆西<\termination>
+	<cost>860<\cost>
+	<quantities>152<\quantities>
+<\train>
+<train>
+	<id>25<\id>
+	<num>G1375<\num>
+	<start>11:15<\start>
+	<end>23:01<\end>
+	<departure>上海虹桥<\departure>
+	<termination>昆明南<\termination>
+	<cost>879<\cost>
+	<quantities>168<\quantities>
+<\train>
+<train>
+	<id>24<\id>
+	<num>G126<\num>
+	<start>11:05<\start>
+	<end>17:05<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>178<\quantities>
+<\train>
+<train>
+	<id>23<\id>
+	<num>G7106<\num>
+	<start>11:05<\start>
+	<end>12:57<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南京<\termination>
+	<cost>135<\cost>
+	<quantities>150<\quantities>
+<\train>
+<train>
+	<id>22<\id>
+	<num>G1349<\num>
+	<start>10:48<\start>
+	<end>16:16<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>183<\quantities>
+<\train>
+<train>
+	<id>21<\id>
+	<num>G1233<\num>
+	<start>10:36<\start>
+	<end>22:23<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长春南<\termination>
+	<cost>875<\cost>
+	<quantities>193<\quantities>
+<\train>
+<train>
+	<id>20<\id>
+	<num>G1301<\num>
+	<start>10:23<\start>
+	<end>19:03<\end>
+	<departure>上海虹桥<\departure>
+	<termination>广州南<\termination>
+	<cost>793<\cost>
+	<quantities>250<\quantities>
+<\train>
+<train>
+	<id>19<\id>
+	<num>G1657<\num>
+	<start>10:18<\start>
+	<end>16:47<\end>
+	<departure>上海虹桥<\departure>
+	<termination>厦门北<\termination>
+	<cost>462<\cost>
+	<quantities>210<\quantities>
+<\train>
+<train>
+	<id>18<\id>
+	<num>G1347<\num>
+	<start>09:51<\start>
+	<end>15:17<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长沙南<\termination>
+	<cost>478<\cost>
+	<quantities>300<\quantities>
+<\train>
+<train>
+	<id>17<\id>
+	<num>G1201<\num>
+	<start>09:39<\start>
+	<end>21:55<\end>
+	<departure>上海虹桥<\departure>
+	<termination>哈尔滨西<\termination>
+	<cost>978<\cost>
+	<quantities>300<\quantities>
+<\train>
+<train>
+	<id>16<\id>
+	<num>G1920<\num>
+	<start>09:24<\start>
+	<end>16:25<\end>
+	<departure>上海虹桥<\departure>
+	<termination>西安北<\termination>
+	<cost>669<\cost>
+	<quantities>300<\quantities>
+<\train>
+<train>
+	<id>15<\id>
+	<num>G1655<\num>
+	<start>09:18<\start>
+	<end>15:25<\end>
+	<departure>上海虹桥<\departure>
+	<termination>厦门北<\termination>
+	<cost>462<\cost>
+	<quantities>350<\quantities>
+<\train>
+<train>
+	<id>14<\id>
+	<num>G54<\num>
+	<start>09:18<\start>
+	<end>15:25<\end>
+	<departure>上海虹桥<\departure>
+	<termination>石家庄<\termination>
+	<cost>624<\cost>
+	<quantities>200<\quantities>
+<\train>
+<train>
+	<id>13<\id>
+	<num>G1255<\num>
+	<start>09:08<\start>
+	<end>20:05<\end>
+	<departure>上海虹桥<\departure>
+	<termination>长春西<\termination>
+	<cost>869<\cost>
+	<quantities>20<\quantities>
+<\train>
+<train>
+	<id>12<\id>
+	<num>G2<\num>
+	<start>09:00<\start>
+	<end>13:28<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>553<\cost>
+	<quantities>190<\quantities>
+<\train>
+<train>
+	<id>8<\id>
+	<num>G8<\num>
+	<start>08:00<\start>
+	<end>12:24<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南<\termination>
+	<cost>793<\cost>
+	<quantities>120<\quantities>
+<\train>
+<train>
+	<id>7<\id>
+	<num>G85<\num>
+	<start>08:00<\start>
+	<end>14:51<\end>
+	<departure>上海虹桥<\departure>
+	<termination>广州南<\termination>
+	<cost>793<\cost>
+	<quantities>120<\quantities>
+<\train>
+<train>
+	<id>6<\id>
+	<num>G1631<\num>
+	<start>07:54<\start>
+	<end>12:15<\end>
+	<departure>上海虹桥<\departure>
+	<termination>福州<\termination>
+	<cost>378<\cost>
+	<quantities>100<\quantities>
+<\train>
+<train>
+	<id>5<\id>
+	<num>G7102<\num>
+	<start>07:25<\start>
+	<end>09:26<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南京<\termination>
+	<cost>200<\cost>
+	<quantities>200<\quantities>
+<\train>
+<train>
+	<id>4<\id>
+	<num>G1651<\num>
+	<start>06:55<\start>
+	<end>13:39<\end>
+	<departure>上海虹桥<\departure>
+	<termination>厦门北<\termination>
+	<cost>500<\cost>
+	<quantities>120<\quantities>
+<\train>
+<train>
+	<id>3<\id>
+	<num>G1383<\num>
+	<start>06:45<\start>
+	<end>10:53<\end>
+	<departure>上海虹桥<\departure>
+	<termination>南昌<\termination>
+	<cost>430<\cost>
+	<quantities>40<\quantities>
+<\train>
+<train>
+	<id>2<\id>
+	<num>G104<\num>
+	<start>06:38<\start>
+	<end>12:33<\end>
+	<departure>上海虹桥<\departure>
+	<termination>北京南站<\termination>
+	<cost>400<\cost>
+	<quantities>100<\quantities>
+<\train>
+<train>
+	<id>1<\id>
+	<num>G1321<\num>
+	<start>06：11<\start>
+	<end>15:40<\end>
+	<departure>上海虹桥<\departure>
+	<termination>贵州北<\termination>
+	<cost>450<\cost>
+	<quantities>50<\quantities>
+<\train>
+<train>
+	<id>9<\id>
+	<num>G1653<\num>
+	<start>08:15<\start>
+	<end>13:31<\end>
+	<departure>上海虹桥<\departure>
+	<termination>厦门北<\termination>
+	<cost>472<\cost>
+	<quantities>100<\quantities>
+<\train>
+<train>
+	<id>10<\id>
+	<num>G212<\num>
+	<start>08:42<\start>
+	<end>14:26<\end>
+	<departure>上海虹桥<\departure>
+	<termination>天津西<\termination>
+	<cost>869<\cost>
+	<quantities>200<\quantities>
+<\train>
+<train>
+	<id>11<\id>
+	<num>G230<\num>
+	<start>08:52<\start>
+	<end>16:01<\end>
+	<departure>上海虹桥<\departure>
+	<termination>青岛<\termination>
+	<cost>960<\cost>
+	<quantities>250<\quantities>
+<\train>
